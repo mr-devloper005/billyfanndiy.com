@@ -6,7 +6,7 @@ export const slot4TaskSupport = {
   sbm: false,
   profile: false,
   pdf: false,
-  listing: true,
+  listing: false,
   image: false,
 } satisfies Record<TaskKey, boolean>;
 
